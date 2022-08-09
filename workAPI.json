@@ -1,8 +1,8 @@
 [
   {
-        "orderheaderid": "260",
-        "orderi": "order001",
-        "sectionIcd": "11",
+        "orderHeaderId": "260",
+        "orderId": "order001",
+        "sectionIcId": "11",
         "siteEngineerId": "22",
         "subContractor": "0",
         "fromDate": "2022-06-30T18:30:00.000+00:00",
