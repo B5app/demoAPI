@@ -1,12 +1,1 @@
-[{
-        "orderHeaderId": 260,
-        "orderId": "order001",
-        "sectionIcId": 0,
-        "siteEngineerId": 0,
-        "subContractor": 0,
-        "fromDate": "2022-06-30T18:30:00.000+00:00",
-        "toDate": "2022-07-18T18:30:00.000+00:00",
-        "createdAt": "2022-07-18T18:30:00.000+00:00",
-        "status": "pending"
-    	}
-]
+[{ "orderHeaderId":260,"orderId":"order001","sectionIcId":0,"siteEngineerId":0,"subContractor":0,"fromDate":"2022-06-30T18:30:00.000+00:00","toDate": "2022-07-18T18:30:00.000+00:00","createdAt":"2022-07-18T18:30:00.000+00:00","status":"pending"}]
